@@ -1,6 +1,6 @@
 
 ## 🚀 Travis Hamilton
-I'm a full stack developer with 10 years of experience in Web and Mobile applications using modern technologies.
+I'm a full stack developer with 12 years of experience in Web and Mobile applications using modern technologies.
 
 In charge of overall web design including basic usability, accessibility, industry standards, architecture, and navigation.
 
