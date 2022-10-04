@@ -1,5 +1,5 @@
 
-## 🚀 Travis Hamilton
+## 🚀 SmartDev
 I'm a full stack developer who specialize in Web and Mobile applications using modern technologies.
 
 In charge of overall web design including basic usability, accessibility, industry standards, architecture, and navigation.
